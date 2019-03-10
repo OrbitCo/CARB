@@ -1,0 +1,29 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <!--<TargetFramework>netcoreapp2.0</TargetFramework>-->
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <AssemblyName>CAQM</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Models\19FEB\**" />
+    <Compile Remove="Models\26FebDB\**" />
+    <EmbeddedResource Remove="Models\19FEB\**" />
+    <EmbeddedResource Remove="Models\26FebDB\**" />
+    <None Remove="Models\19FEB\**" />
+    <None Remove="Models\26FebDB\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Remove="Migrations\20181211162345_notification-userid.cs" />
+  </ItemGroup>
+  
+  <ItemGroup>
+    <!--<PackageReference Include="Microsoft.AspNetCore.All" Version="2.0.0" />-->
+    <PackageReference Include="EntityFramework" Version="6.2.0" />
+    <PackageReference Include="Microsoft.AspNetCore.App" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer.Design" Version="1.1.6" />
+  </ItemGroup>
+
+</Project>

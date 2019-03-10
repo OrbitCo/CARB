@@ -1,0 +1,9 @@
+[build]
+  base = "WebApi/ClientApp/"
+  command = "npm run build"
+  publish = "WebApi/ClientApp/build/"
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200

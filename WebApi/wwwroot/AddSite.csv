@@ -1,0 +1,9 @@
+Transaction Type,Community Name / Project Name,Site Name,Site ID,Latitude,Longitude,Elevation,CFR Siting,Monitor Purpose,Monitor ID,ID,Monitor Manufacturer,Monitor Model,Firmware Version,Parameter,Measurement Technique,Sampling Frequency,Sampling Duration,Upper Detection Limit,Lower Detection Limit,Method Detection Limit,Detection Range Units,Monitor Uncertainty,Precision,System Description,Monitor Purchase Date,Last Calibration Timestamp,Last service date,Inlet Orientation,Inlet Height,Inlet Diameter,Flow Rate,Measurement Resolution,Explanation,Effective Date
+CS,Los Angeles ,Site 12,4,32.98544,-117.08218,218,Y,1,6,1,ThermoFisher Scientific,42,1,42601,74,1h,,1200,-5,10,8,,,,1/1/2019,1/5/2019,1/5/2019,,,,,,,1/25/2019
+AS,San Diego ,Site 34,7,32.990272,-117.092346,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+AS,San Jose ,Site56,6,32.990272,-117.092346,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+AM,San Francisco ,Site78,5,32.71573,-116.16108,,N,2,21,1,PurpleAir,43,1,88502,100511,5m,,500,0,10,1,4%,,,1/2/2019,1/2/2019,1/2/2019,,,,,1,,1/25/2019
+AM,Monterey ,Site90,6,32.71573,-116.16108,,N,2,22,1,PurpleAir,45,1,88503,100511,5m,,500,0,11,1,4%,,,1/2/2019,1/2/2019,1/2/2019,,,,,1,,1/25/2019
+AM,Moon Bay ,Site14,9,32.71573,-116.16108,,N,2,23,1,PurpleAir,46,1,88504,100511,5m,,500,0,12,1,4%,,,1/2/2019,1/2/2019,1/2/2019,,,,,1,,1/25/2019
+UM,Moon Bay ,Site15888,9,32.71573,-116.16108,,N,2,24,1,PurpleAir,46,1,88504,100511,5m,,500,0,12,1,4%,,,1/2/2019,1/2/2019,1/2/2019,,,,,1,,1/25/2019
+AP,Moon Bay ,Site16,9,32.71573,-116.16108,,N,2,25,1,PurpleAir,46,1,10000,100511,5m,,500,0,12,1,4%,,,1/2/2019,1/2/2019,1/2/2019,,,,,1,,1/25/2019
